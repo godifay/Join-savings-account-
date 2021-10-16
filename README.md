@@ -21,7 +21,7 @@ Smart contract by Solidity
 ![](transthreetwo.png)
 
 ## set the withdrawal to account one 5 ether and contract balance after withdraw
-![](sethwithdrawal.png)
+![](setwithdrawal.png)
 ![](5ethw.png)
 ![](contractb5eth.png)
 
